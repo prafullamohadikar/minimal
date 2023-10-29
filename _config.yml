@@ -1,6 +1,17 @@
 title: <p align="center">Prafulla Mohadikar<p>
 logo: /assets/img/logo.jpg
 description: Software Engineer
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/prafulla-p-mohadikar-aa48bb22/">LinkedIn</a> |
+  <a href="https://github.com/prafullamohadikar">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Machine learning related problems.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
